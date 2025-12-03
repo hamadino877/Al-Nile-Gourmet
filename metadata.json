@@ -1,0 +1,5 @@
+{
+  "name": "Nile Gourmet",
+  "description": "A premium Egyptian cuisine menu application with cart, favorites, and WhatsApp checkout functionality.",
+  "requestFramePermissions": []
+}
