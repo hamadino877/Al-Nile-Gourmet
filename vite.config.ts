@@ -9,7 +9,8 @@ export default defineConfig(({ mode }) => {
     plugins: [react()],
     base: './',
     define: {
-      'process.env.API_KEY': JSON.stringify(env.API_KEY),
+      // تم تحديث المفتاح بالمفتاح الجديد الذي أرسلته
+      'process.env.API_KEY': JSON.stringify("AIzaSyCbzfwAy2LjSM6hqBy7w3TLC6ugI45k0mA"),
     },
     build: {
       chunkSizeWarningLimit: 1600,
